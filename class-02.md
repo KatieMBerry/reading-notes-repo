@@ -5,7 +5,7 @@
 - <abbr> for abbreviations & acronyms
 - define <def>
 - author address <address>
-- editing <ins> <"del">
+- editing <"ins"> <"del">
 - <s> not accurate but to not delete
 
 - child selectors ex: li>a {}
