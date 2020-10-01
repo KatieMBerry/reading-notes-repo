@@ -1,12 +1,12 @@
 /// HTML Structure & CSS ////
-- superscript/subscript tags <sup>/<sub>
-- horizontal rule tags (br with a line) <hr />
+- superscript/subscript tags <"sup">/<"sub">
+- horizontal rule tags (br with a line) <"hr" />
 - blockquote with cite attribute (url)
-- <abbr> for abbreviations & acronyms
-- define <def>
-- author address <address>
+- <"abbr"> for abbreviations & acronyms
+- define <"def">
+- author address <"address">
 - editing <"ins"> <"del">
-- <s> not accurate but to not delete
+- <"s"> not accurate but to not delete
 
 - child selectors ex: li>a {}
 - descendant selectors ex: p a {}
