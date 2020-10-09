@@ -1,4 +1,4 @@
-//// Domain Modeling ////
+//// Domain Modeling https://github.com/codefellows/domain_modeling#domain-modeling ////
 - " A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model."
 - Constructor Functions = defines the same properties between various objects
     - Storing data within properties ensures any newly created object can access that data later
