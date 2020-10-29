@@ -12,7 +12,7 @@
     - sort() - by keys
     - toString() - returns a string containing a query string suitable for use in a URL
 
-        /*searchParams.has("topic") === true; // true
+        */searchParams.has("topic") === true; // true
         searchParams.get("topic") === "api"; // true
         searchParams.getAll("topic"); // ["api"]
         searchParams.get("foo") === null; // true
@@ -21,7 +21,7 @@
         searchParams.set("topic", "More webdev");
         searchParams.toString(); // "q=URLUtils.searchParams&topic=More+webdev"
         searchParams.delete("topic");
-        searchParams.toString(); // "q=URLUtils.searchParams"/*
+        searchParams.toString(); // "q=URLUtils.searchParams"*/
 
 /// toString() ///
 - no parameters
